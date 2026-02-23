@@ -1,0 +1,21 @@
+From: Rynette Farrar <rynette@regima.zone>
+To: 
+Date: 2025-06-19 04:49:12
+Subject: FW: [GitHub] Sentry.io is requesting updated permissions
+Mailbox: gayane@regima.zone
+Message-ID: <VI0PR08MB105819D1AC5648AD8BB2AD152BA7DA@VI0PR08MB10581.eurprd08.prod.outlook.com>
+Conversation-ID: AAQkADYyOGUyNzJhLWVhOTktNDhhZi05ZjQzLTU0YTg1NTI0NTEyNgAQAPTFvlk4fL9Jgm1PNAHw1nU=
+Web-Link: https://outlook.office365.com/owa/?ItemID=AAMkADYyOGUyNzJhLWVhOTktNDhhZi05ZjQzLTU0YTg1NTI0NTEyNgBGAAAAAAAn3YWKSRFXRJVfi24bi0EjBwADejqokPe8Rrn3Tt%2BTCBjqAAA7vOvOAAADejqokPe8Rrn3Tt%2BTCBjqAABtgEecAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+============================================================
+
+[BODY PREVIEW ONLY]
+
+From: GitHub <noreply@github.com>
+Sent: Wednesday, June 18, 2025 7:28 PM
+To: Kayla Pretorius <kayla@regima.zone>
+Subject: [GitHub] Sentry.io is requesting updated permissions
+
+Updated Permissions Request
+
+The GitHub App Sentry.io is requesting 

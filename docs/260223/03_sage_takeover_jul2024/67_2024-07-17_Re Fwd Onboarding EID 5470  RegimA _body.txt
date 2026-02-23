@@ -1,0 +1,23 @@
+From: Keenan Faure from Stock2Shop <support@stock2shop.com>
+To: 
+Date: 2024-07-17 07:07:33
+Subject: Re: Fwd: Onboarding EID 5470 : RegimA WW - RegimA Zone (Cloud) 9970269371
+Mailbox: gayane@regima.zone
+Message-ID: <CAC_sFayo2849cPJOUwnW6uAn0RNZ+jTpGusvNx=O9P-dOsYicw@mail.gmail.com>
+Conversation-ID: AAQkADYyOGUyNzJhLWVhOTktNDhhZi05ZjQzLTU0YTg1NTI0NTEyNgAQANOR4ogRNKFBvAdnIrCh2V0=
+Web-Link: https://outlook.office365.com/owa/?ItemID=AAMkADYyOGUyNzJhLWVhOTktNDhhZi05ZjQzLTU0YTg1NTI0NTEyNgBGAAAAAAAn3YWKSRFXRJVfi24bi0EjBwADejqokPe8Rrn3Tt%2BTCBjqAAAS27zMAAADejqokPe8Rrn3Tt%2BTCBjqAABtf7%2FCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+
+============================================================
+
+[BODY PREVIEW ONLY]
+
+Hi Gee,
+
+I hope all is well.
+
+Please can you advise on an update that Daniel made to the price lists? I think the next steps would be:
+
+- Syncing the various products to Shopify
+- Syncing orders from Shopify into Sage One
+
+Yours respectfully,

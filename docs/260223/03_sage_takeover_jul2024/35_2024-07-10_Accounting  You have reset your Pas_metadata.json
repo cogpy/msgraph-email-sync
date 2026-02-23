@@ -1,0 +1,20 @@
+{
+  "graph_message_id": "AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp_82Ac8MTK2-lmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAbmcTUKAAA=",
+  "user_id": "1e53e879-d64d-4be7-a8dd-75f364b74f0d",
+  "user_email": "dan@regima.zone",
+  "received_datetime": "2024-07-10 08:45:34",
+  "from_name": "noreply@accounting.sageone.co.za",
+  "from_address": "noreply@accounting.sageone.co.za",
+  "subject": "Accounting:  You have reset your Password",
+  "to_recipients": [
+    ""
+  ],
+  "cc_recipients": [],
+  "has_attachments": true,
+  "internet_message_id": "<HakR2RdAQoOcz7FEBiRcZw@geopod-ismtpd-8>",
+  "conversation_id": "AAQkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MAAQAB3xefYZFOhAj9RnijdX8Zg=",
+  "web_link": "https://outlook.office365.com/owa/?ItemID=AAMkAGYzMDVmNzkwLWNmZjMtNDBjZC04ZmY4LTRkNGEzNTgxMjU2MABGAAAAAADPi1nZV45aRY1s43jJ3tfJBwCtp%2B82Ac8MTK2%2FlmRJoPi9AAAAAAEMAACpChlY1MKaRbKdNPbWwiIjAAbmcTUKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+  "body_content_type": null,
+  "has_full_body": false,
+  "body_preview": "You have Reset your Password\r\n\r\nHi Kayla\r\n\r\nYou recently requested to reset your password for your Accounting account. Use the button below to reset it.\r\nThis password reset is only valid for the next 24 hours.\r\n\r\n\r\nReset Password\r\n\r\n\r\nIf you did not requ"
+}
