@@ -107,6 +107,16 @@ On **10 June 2025**, Daniel sent a second, more detailed fraud report to Bantjie
 
 On the same day that FNB Legal confirmed in writing that Daniel held "Administrator with **SOLE** General Powers" on the company accounts, **18 June 2025** was also the day Rynette instructed **De Novo Business Services** to fabricate fake 2019 annual accounts. These fabricated accounts removed all records of **Kayla Pretorius as a director** and erased the company name **K-OZ Creative** from the historical record. This was a deliberate act of evidence destruction — rewriting corporate history to conceal Kayla's role and the true ownership structure of the companies. The fact that this occurred on the same day as the FNB legal confirmation suggests a coordinated effort: while one arm of the conspiracy was being exposed by the bank's records, another was actively destroying the documentary trail.
 
+### The CIPC Campaign to Erase Kayla
+
+The De Novo fabrication was not an isolated act. It was part of a broader, sustained campaign by Rynette to erase Kayla Pretorius from the corporate record entirely. As early as **2 November 2023** — less than four months after Kayla's murder — Rynette emailed Clare Payne of Corporate and Merchant Administrators (the company's CIPC agent), claiming:
+
+> *"Fact is that there are no invoices for Unicorn or Rezonance for this year. The files that were delivered was for previous years. So, I really don't know what Kayla would have done with all the paper work, unless it was given to our account[ant]"*
+
+This was a lie. ReZonance had accounts, and Daniel had them. On **14 November 2023**, Rynette followed up with Clare, instructing her to have Kayla "removed as director" from ReZonance. Daniel corrected Rynette's false claim and sent the actual ReZonance accounts to Clare directly. By **16 July 2025**, Clare was requesting Kayla's death certificate from Jacqueline in order to formally notify CIPC and remove Kayla as a director — a process that had been set in motion by Rynette's instructions, not by the legitimate directors.
+
+The pattern is clear: Rynette lied to the CIPC agent about the existence of accounts, instructed the removal of a murdered woman as director, and then commissioned De Novo to fabricate historical accounts that erased Kayla from the record. Each step was designed to sever the documentary link between Kayla and the companies she helped build — companies whose revenue streams were being systematically diverted.
+
 ---
 
 ## VI. The Three-Day Interdict Sprint: August 2025
