@@ -40,9 +40,12 @@ The conspiracy crystallised in a devastating ten-day window in mid-2024.
 
 On **28 June 2024**, Rynette Farrar sent an email to Bantjies with the subject line "Copy of your ID":
 
-> *"pp Peter signed the resolution to have you installed as a trustee on the Faucitt Family Trust, however, I need a copy of your ID to finalise this process if you could be so kind."*
+> *"Hi Danie*
+> *I have just signed the resolution to have you installed as a trustee on the Faucitt Family Trust, however, I need a copy of your ID to finalise this process if you could be so kind.*
+> *Regards*
+> *pp Peter"*
 
-The abbreviation "pp" — *per procurationem* — means Rynette signed the trust amendment resolution **on Peter's behalf**. This is a forgery. The forged document (SF15) installed Bantjies as a trustee of the FFT without the knowledge or consent of Daniel or Jacqueline, who are both trustees and beneficiaries. Bantjies responded on **1 July 2024** by sending his ID, accepting the fraudulent appointment without question.
+The structure of this email is the smoking gun. Rynette writes in the first person — "**I** have just signed" — and then signs off as "pp Peter" (*per procurationem*), meaning she signed the trust amendment resolution **on Peter's behalf**. This is a forgery. Bantjies' reply, addressed to "Hi Rynette/Peter," confirms he understood exactly who he was dealing with. The forged document (SF15) installed Bantjies as a trustee of the FFT without the knowledge or consent of Daniel or Jacqueline, who are both trustees and beneficiaries. Bantjies responded on **1 July 2024** by sending his ID, accepting the fraudulent appointment without question.
 
 The significance of this act cannot be overstated. Bantjies, as CFO of the George Group, had insider knowledge of the Ketoni investment. His installation as trustee gave the conspirators a majority on the Trust — Peter (Founder with additional powers) and Bantjies (newly installed) could outvote Jacqueline. Daniel, as a mere beneficiary, had no vote at all.
 
@@ -84,19 +87,25 @@ On **22 May 2025**, orders were removed from the Shopify platform. Seven days la
 
 The timing is not coincidental. Adderory had been incorporated in April 2021 alongside two other companies owned by Rynette's son: **Luxury Products Online** (a distribution channel) and **Luxuré** (a direct competitor to RegimA). Adderory had also become a supplier of RegimA packaging, creating a closed loop of self-dealing.
 
-### Card Cancellation Retaliation — June 2025
-
-In early June 2025, Daniel's corporate credit cards were secretly cancelled. The Exchange records contain a flood of FNB notifications:
-
-> *"FNB Transaction declined due to Temporary Block on card ending 5191. Logon to Online/APP to update."*
-
-These notifications arrived in rapid succession, proving a systematic blocking of Daniel's ability to transact on behalf of the company. This was not an administrative error — it was targeted retaliation, timed to coincide with Daniel's fraud investigation.
-
 ### Daniel Reports the Fraud — 6 June 2025
 
 On **6 June 2025**, Daniel Faucitt formally reported the fraud to Bantjies — the very person who had been unlawfully installed as trustee, though Daniel did not yet know this. Daniel contacted Bantjies in his capacity as the accountant for all the companies, trusting that the professional who handled the books would act on evidence of financial irregularities. Bantjies forwarded the fraud report to his own work email, acknowledging receipt.
 
-On **18 June 2025**, FNB Legal confirmed in writing that Daniel held "Administrator with **SOLE** General Powers" on the company accounts — meaning every transaction Peter later claimed was "unauthorized" was, in fact, fully within Daniel's legal authority.
+### Card Cancellation Retaliation — 7 June 2025
+
+The very next day, on **7 June 2025** — one day after Daniel's fraud report — his corporate credit cards were secretly cancelled. The Exchange records contain a flood of FNB notifications:
+
+> *"FNB Transaction declined due to Temporary Block on card ending 5191. Logon to Online/APP to update."*
+
+These notifications arrived in rapid succession, proving a systematic blocking of Daniel's ability to transact on behalf of the company. This was not an administrative error — it was targeted, immediate retaliation for reporting the fraud.
+
+### Daniel's Second Fraud Report to Bantjies — 10 June 2025
+
+On **10 June 2025**, Daniel sent a second, more detailed fraud report to Bantjies, expanding on the evidence of financial irregularities across the company group. Bantjies again acknowledged receipt. He now had two detailed fraud reports in his possession — and yet, 64 days later, he would swear a confirmatory affidavit in support of Peter's founding affidavit, directly contradicting everything Daniel had reported to him.
+
+### The De Novo Fabrication — 18 June 2025
+
+On the same day that FNB Legal confirmed in writing that Daniel held "Administrator with **SOLE** General Powers" on the company accounts, **18 June 2025** was also the day Rynette instructed **De Novo Business Services** to fabricate fake 2019 annual accounts. These fabricated accounts removed all records of **Kayla Pretorius as a director** and erased the company name **K-OZ Creative** from the historical record. This was a deliberate act of evidence destruction — rewriting corporate history to conceal Kayla's role and the true ownership structure of the companies. The fact that this occurred on the same day as the FNB legal confirmation suggests a coordinated effort: while one arm of the conspiracy was being exposed by the bank's records, another was actively destroying the documentary trail.
 
 ---
 
@@ -150,7 +159,7 @@ The exchange evidence, read as a whole, reveals a pattern that is unmistakable i
 | **Insider Positioning** | Bantjies installed as trustee (28 Jun 2024) while serving as CFO of George Group (Ketoni's parent) | Insider access to R18.685M payout mechanism |
 | **Sabotage-then-Frame** | Sage API deliberately broken (Jul 2024) → financial chaos → blamed on Daniel (Aug 2025) | Manufactured the very "evidence" used in the affidavit |
 | **Revenue Hijacking** | 39+ bank detail change emails (Jun 2025), Shopify orders removed, domain registered by Rynette's son | Systematic diversion of all income streams |
-| **Retaliation** | Cards cancelled days after fraud report; interdict filed 68 days after fraud report to Bantjies | Punishing the whistleblower |
+| **Retaliation** | Cards cancelled 7 Jun (1 day after fraud report); De Novo fabrication 18 Jun; interdict filed 68 days after fraud report | Punishing the whistleblower and destroying evidence |
 | **Legal Weaponisation** | Ex parte interdict on perjured affidavit → contempt application seeking imprisonment | Using the courts as an instrument of persecution |
 
 ---
