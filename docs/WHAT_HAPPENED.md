@@ -34,7 +34,20 @@ By **November 2023**, Rynette initiated the first attempt to change the Sage adm
 
 ## IV. The Coordinated Strike: June–July 2024
 
-The conspiracy crystallised in a devastating ten-day window in mid-2024.
+The conspiracy crystallised in a devastating ten-day window in mid-2024. But the groundwork had been laid months earlier.
+
+### The SARS eFiling Impersonation — 26 April 2024
+
+Two months before the trust forgery, on **26 April 2024**, Rynette sent Bantjies an email with the subject line **"Logged in as you"**:
+
+> *"Hi Danie*
+> *Just to let you know I couldn’t come right with SARS logged in as ‘me’ to change the banking details to ABSA.*
+> *So, I logged in as you and all is sorted now.*
+> *Just so you know in case you get notifications from SARS, that it was me"* 😊
+
+Bantjies’ reply the next day was simply: **"All good!"**
+
+This email is significant on multiple levels. First, Rynette had access to Bantjies’ SARS eFiling credentials — she could log in as the tax practitioner for the entire RegimA group. Second, the purpose of the impersonation was to **change the banking details to ABSA** — the same ABSA accounts that would later be used to divert all company revenue away from FNB (where Daniel had sole signing authority). Third, Bantjies condoned the impersonation without question, establishing the pattern of complicity that would escalate to trust forgery and perjury. The ABSA banking detail change on SARS eFiling in April 2024 proves the revenue diversion was planned at least **thirteen months** before the mass bank detail change emails to clients in May–June 2025.
 
 ### The Trust Forgery — 28 June 2024
 
@@ -86,6 +99,14 @@ On **5 May 2025**, Rynette herself sent an email titled "Banking details and ema
 On **22 May 2025**, orders were removed from the Shopify platform. Seven days later, on **29 May 2025**, Rynette's son's company, **Adderory (Pty) Ltd**, registered the domain `regimaskin.co.za`. On **20 June 2025**, employee Gayane announced the email domain change from `regima.zone` to `regimaskin.co.za`, completing the infrastructure hijacking.
 
 The timing is not coincidental. Adderory had been incorporated in April 2021 alongside two other companies owned by Rynette's son: **Luxury Products Online** (a distribution channel) and **Luxuré** (a direct competitor to RegimA). Adderory had also become a supplier of RegimA packaging, creating a closed loop of self-dealing.
+
+### The IT Expenses Smokescreen — May–June 2025
+
+While the revenue diversion was underway, Bantjies and Rynette constructed a parallel narrative to blame Daniel for the company’s deteriorating financial position. On **29 May 2025**, Rynette emailed Bantjies about the “RegimA World Wide position,” stating the company was “on course to post a substantial loss, as we did in 2023/2024.” On **3 June 2025**, Bantjies replied that he “was going to report on the computer expenses together with my financial analysis” — framing Daniel’s IT infrastructure costs (Shopify, Cloudflare, Stock2Shop, Axio Connect) as the cause of the losses. On **5 June 2025**, Jacqueline forwarded Bantjies’ analysis to Daniel, noting “Danny will be in contact with you today regarding the **shocking disclosures** in your attachment.”
+
+The “shocking disclosures” were not Daniel’s IT expenses. They were the evidence of fraud that Daniel had uncovered while investigating the very financial chaos that Rynette and Bantjies had engineered. The IT expenses smokescreen was designed to pre-empt Daniel’s fraud report by establishing a counter-narrative: that the company’s losses were caused by Daniel’s “computer expenses,” not by the revenue diversion, accounting sabotage, and self-dealing that the books actually revealed.
+
+This was also connected to an ongoing SARS audit. **Anton Hechter** (`ahechter@telkomsa.net`), the SARS tax practitioner who handled VAT submissions for all RegimA companies, had been involved since at least 2020. In **July 2021**, Rynette emailed Anton about a “SARS audit — Hold on refund,” complaining that “Danie [Bantjies] said there would not be a problem with him and Bern’s stuff up, and now SARS are withholding our refund.” By **June 2025**, Rynette was arguing with Bantjies about VAT queries, claiming “that Anton is talking about” something that “is not on the SARS Efiling portal either.” The SARS audit and the large transactions it scrutinised were being used as additional cover — another layer of manufactured complexity to obscure the underlying fraud.
 
 ### Daniel Reports the Fraud — 6 June 2025
 
@@ -169,7 +190,10 @@ The exchange evidence, read as a whole, reveals a pattern that is unmistakable i
 | **Insider Positioning** | Bantjies installed as trustee (28 Jun 2024) while serving as CFO of George Group (Ketoni's parent) | Insider access to R18.685M payout mechanism |
 | **Sabotage-then-Frame** | Sage API deliberately broken (Jul 2024) → financial chaos → blamed on Daniel (Aug 2025) | Manufactured the very "evidence" used in the affidavit |
 | **Revenue Hijacking** | 39+ bank detail change emails (Jun 2025), Shopify orders removed, domain registered by Rynette's son | Systematic diversion of all income streams |
+| **SARS eFiling Impersonation** | Rynette logged in as Bantjies on SARS eFiling (26 Apr 2024) to change banking details to ABSA; Bantjies replied "All good!" | ABSA revenue diversion planned 13 months before client bank detail changes |
+| **IT Expenses Smokescreen** | Bantjies framed Daniel's IT costs as cause of losses (May–Jun 2025); SARS audit used as additional cover | Pre-emptive counter-narrative to discredit the fraud report |
 | **Retaliation** | Cards cancelled 7 Jun (1 day after fraud report); De Novo fabrication 18 Jun; interdict filed 68 days after fraud report | Punishing the whistleblower and destroying evidence |
+| **CIPC Erasure Campaign** | Rynette lied about ReZonance accounts (Nov 2023), instructed Kayla's removal as director, commissioned De Novo fabrication | Systematic destruction of documentary trail linking Kayla to companies |
 | **Legal Weaponisation** | Ex parte interdict on perjured affidavit → contempt application seeking imprisonment | Using the courts as an instrument of persecution |
 
 ---
