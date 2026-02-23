@@ -24,7 +24,31 @@ This R18.685 million payout is the gravitational centre of everything that follo
 
 ---
 
-## III. The Death of Kayla Pretorius (July 2023)
+## III. The Premeditation: 2021–2023
+
+The deep correspondence analysis reveals the conspiracy was not a sudden event, but a slow burn of escalating control and premeditated acts.
+
+### Backdated Journal Entries (August 2021)
+
+On **17 August 2021**, Rynette instructed Bantjies to make specific, backdated journal entries to "fix" the intercompany loan account between Strategic and RegimA World Wide. This is a complete reversal of proper financial controls — the bookkeeper directing the external accountant on how to alter the books. This early evidence of financial record manipulation, combined with a later reference to "amended financial statements" on **8 September 2021** in relation to a held-up SARS refund, establishes a pattern of financial misconduct long before the main events.
+
+### Villa Via's Incorrect Registration (January 2022)
+
+On **18 January 2022**, Bantjies admitted he had been using an incorrect company registration number for Villa Via since 2014. His email to Rynette states: *"My goodness, been using this incorrect number since 2014! Well done in picking this up."* This eight-year error raises serious questions about the accuracy of all historical financial records and the level of scrutiny applied by the external accountant.
+
+### Rynette Requests Trust Documents (July 2023)
+
+On **27 July 2023** — just **14 days after Kayla Pretorius was murdered** — Rynette proactively requested the Faucitt Family Trust documents from Bantjies. This action, occurring almost exactly one year before the trust forgery, is a powerful indicator of premeditation. With Kayla gone, Rynette immediately began maneuvering to gain control of the Trust, the ultimate prize in the conspiracy.
+
+### SARS Wants to "Have a Coffee" (November 2023)
+
+On **16 November 2023**, Rynette forwarded an email from SARS officials Melodie Koen and Azwifaneli Matshili to Bantjies, ominously stating: *"SARS wants to come and have a coffee with you."* This was a clear indicator of an impending audit or investigation, putting all previous and subsequent tax-related communications into a high-stakes context. It suggests that SARS may have already detected irregularities, prompting a deeper look into the companies' affairs.
+
+### Rynette Takes Control of SARS Compliance (October 2023)
+
+On **6 October 2023**, Rynette unilaterally handled a critical SARS RLA (Reporting of Conveyances and Goods) registration issue, sidelining Bantjies. She emailed Peter Faucitt: *"Pete don’t have to ask Danie to do anything re this, as I have done and submit it already. Yahoo!"* This marks a significant shift in control, with the bookkeeper taking direct control of SARS compliance matters that were previously the domain of the external accountant.
+
+## IV. The Death of Kayla Pretorius (July 2023)
 
 On **13 July 2023**, Kayla Pretorius — the original Sage account owner, a key employee, and the co-director of ReZonance with Daniel — was murdered. Her death created a vacuum in the company's digital infrastructure. Kayla's email (`kayla@regima.zone`) was the authentication anchor for the Sage accounting system, the Stock2Shop integration, and the Slack workspace. Rynette, who had been a standard user on the Sage system since May 2020, began manoeuvring to fill this vacuum.
 
@@ -32,7 +56,7 @@ By **November 2023**, Rynette initiated the first attempt to change the Sage adm
 
 ---
 
-## IV. The Coordinated Strike: June–July 2024
+## V. The Coordinated Strike: 2024
 
 The conspiracy crystallised in a devastating ten-day window in mid-2024. But the groundwork had been laid months earlier.
 
@@ -46,6 +70,8 @@ Two months before the trust forgery, on **26 April 2024**, Rynette sent Bantjies
 > *Just so you know in case you get notifications from SARS, that it was me"* 😊
 
 Bantjies’ reply the next day was simply: **"All good!"**
+
+This pattern of confusion continued. On **28-30 August 2024**, Bantjies attempted to load a provisional tax payment of R367,572.12 on eFiling, but repeatedly selected FNB instead of ABSA. Rynette had to correct him: *"I have just checked the Absa bank, and I do not see the loaded payment for the tax. Did you perhaps load the payment to go off with FNB?"* Bantjies replied: *"Eish, my mistake. I've now selected ABSA."* This proves Bantjies was not the one who changed the banking details to ABSA — he didn't even know the correct bank to use.
 
 This email is significant on multiple levels. First, Rynette had access to Bantjies’ SARS eFiling credentials — she could log in as the tax practitioner for the entire RegimA group. Second, the purpose of the impersonation was to **change the banking details to ABSA** — the same ABSA accounts that would later be used to divert all company revenue away from FNB (where Daniel had sole signing authority). Third, Bantjies condoned the impersonation without question, establishing the pattern of complicity that would escalate to trust forgery and perjury. The ABSA banking detail change on SARS eFiling in April 2024 proves the revenue diversion was planned at least **thirteen months** before the mass bank detail change emails to clients in May–June 2025.
 
@@ -61,6 +87,8 @@ On **28 June 2024**, Rynette Farrar sent an email to Bantjies with the subject l
 The structure of this email is the smoking gun. Rynette writes in the first person — "**I** have just signed" — and then signs off as "pp Peter" (*per procurationem*), meaning she signed the trust amendment resolution **on Peter's behalf**. This is a forgery. Bantjies' reply, addressed to "Hi Rynette/Peter," confirms he understood exactly who he was dealing with. The forged document (SF15) installed Bantjies as a trustee of the FFT without the knowledge or consent of Daniel or Jacqueline, who are both trustees and beneficiaries. Bantjies responded on **1 July 2024** by sending his ID, accepting the fraudulent appointment without question.
 
 The significance of this act cannot be overstated. Bantjies, as CFO of the George Group, had insider knowledge of the Ketoni investment. His installation as trustee gave the conspirators a majority on the Trust — Peter (Founder with additional powers) and Bantjies (newly installed) could outvote Jacqueline. Daniel, as a mere beneficiary, had no vote at all.
+
+The connection between the trust appointment and the Ketoni investment was made explicit on **26 September 2024**. In a single email exchange, Bantjies arranged to bring the newly signed trust documents to a meeting and, at the same time, give Peter and Jacqui *"feedback on the performance of the company in which Ketoni Investments hold shares."* The two events were inextricably linked.
 
 ### The Sage Fraud — 8–9 July 2024
 
@@ -78,7 +106,7 @@ The Stock2Shop team spent ten days (10–19 July 2024) reconfiguring all portals
 
 ---
 
-## V. The Slow Strangulation: March–June 2025
+## VI. The Slow Strangulation: 2025
 
 With the trust structure compromised and the accounting system under her control, Rynette began the systematic dismantling of Daniel's ability to operate the business.
 
@@ -100,7 +128,9 @@ On **22 May 2025**, orders were removed from the Shopify platform. Seven days la
 
 The timing is not coincidental. Adderory had been incorporated in April 2021 alongside two other companies owned by Rynette's son: **Luxury Products Online** (a distribution channel) and **Luxuré** (a direct competitor to RegimA). Adderory had also become a supplier of RegimA packaging, creating a closed loop of self-dealing.
 
-### The IT Expenses Smokescreen — May–June 2025
+### The Secret Sharing & IT Expenses Smokescreen — May–June 2025
+
+On **26 May 2025**, Bantjies secretly forwarded his financial analysis to Rynette with the instruction: *"Ek dink nie jy moet sê ek het hierdie met jou gedeel nie asb."* (I don't think you should say I shared this with you please). This proves Bantjies was colluding with Rynette, providing her with financial information that he was not sharing with the other directors.
 
 While the revenue diversion was underway, Bantjies and Rynette constructed a parallel narrative to blame Daniel for the company’s deteriorating financial position. On **29 May 2025**, Rynette emailed Bantjies about the “RegimA World Wide position,” stating the company was “on course to post a substantial loss, as we did in 2023/2024.” On **3 June 2025**, Bantjies replied that he “was going to report on the computer expenses together with my financial analysis” — framing Daniel’s IT infrastructure costs (Shopify, Cloudflare, Stock2Shop, Axio Connect) as the cause of the losses. On **5 June 2025**, Jacqueline forwarded Bantjies’ analysis to Daniel, noting “Danny will be in contact with you today regarding the **shocking disclosures** in your attachment.”
 
@@ -190,7 +220,8 @@ The exchange evidence, read as a whole, reveals a pattern that is unmistakable i
 | **Insider Positioning** | Bantjies installed as trustee (28 Jun 2024) while serving as CFO of George Group (Ketoni's parent) | Insider access to R18.685M payout mechanism |
 | **Sabotage-then-Frame** | Sage API deliberately broken (Jul 2024) → financial chaos → blamed on Daniel (Aug 2025) | Manufactured the very "evidence" used in the affidavit |
 | **Revenue Hijacking** | 39+ bank detail change emails (Jun 2025), Shopify orders removed, domain registered by Rynette's son | Systematic diversion of all income streams |
-| **SARS eFiling Impersonation** | Rynette logged in as Bantjies on SARS eFiling (26 Apr 2024) to change banking details to ABSA; Bantjies replied "All good!" | ABSA revenue diversion planned 13 months before client bank detail changes |
+| **SARS eFiling Impersonation** | Rynette logged in as Bantjies on SARS eFiling (26 Apr 2024) to change banking details to ABSA; Bantjies replied "All good!" Bantjies' later confusion about FNB/ABSA (Aug 2024) proves he wasn't in control. | ABSA revenue diversion planned 13 months before client bank detail changes |
+| **Premeditation & Trust Takeover** | Rynette requested trust docs 14 days after Kayla's murder (Jul 2023); forged trust amendment to install Bantjies (Jun 2024); linked trust docs to Ketoni feedback (Sep 2024) | Proves a year-long, premeditated plan to seize control of the Trust to capture the Ketoni payout |
 | **IT Expenses Smokescreen** | Bantjies framed Daniel's IT costs as cause of losses (May–Jun 2025); SARS audit used as additional cover | Pre-emptive counter-narrative to discredit the fraud report |
 | **Retaliation** | Cards cancelled 7 Jun (1 day after fraud report); De Novo fabrication 18 Jun; interdict filed 68 days after fraud report | Punishing the whistleblower and destroying evidence |
 | **CIPC Erasure Campaign** | Rynette lied about ReZonance accounts (Nov 2023), instructed Kayla's removal as director, commissioned De Novo fabrication | Systematic destruction of documentary trail linking Kayla to companies |
